@@ -1,7 +1,7 @@
 ## Play the Game
 
-You can play the game by visiting the following link: [Tic-Tac-Toe React Game](tic-tac-toe-react-olive.vercel.app
-)
+You can play the game by visiting the following link: [Tic-Tac-Toe React Game](
+tic-tac-toe-react-git-main-sujith-s-projects.vercel.app)
 
  **Project Setup**
 
