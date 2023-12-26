@@ -1,3 +1,7 @@
+## Play the Game
+
+You can play the game by visiting the following link: [Tic-Tac-Toe React Game](https://tic-tac-toe-react-fwc8uftl8-sujith-s-projects.vercel.app)
+
  **Project Setup**
 
 This section of the README.md file will provide instructions on how to set up the environment for a React application using Vite. Vite is a build tool that provides a fast and efficient way to develop and build React applications.
